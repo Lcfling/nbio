@@ -12,8 +12,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/lesismal/nbio/mempool"
-	"github.com/lesismal/nbio/nbhttp"
+	"github.com/Lcfling/nbio/mempool"
+	"github.com/Lcfling/nbio/nbhttp"
 )
 
 const (

@@ -16,11 +16,11 @@ import (
 	"unicode/utf8"
 	"unsafe"
 
-	"github.com/lesismal/llib/std/crypto/tls"
-	"github.com/lesismal/nbio"
-	"github.com/lesismal/nbio/logging"
-	"github.com/lesismal/nbio/mempool"
-	"github.com/lesismal/nbio/taskpool"
+	"github.com/Lcfling/cryptogm/tls"
+	"github.com/Lcfling/nbio"
+	"github.com/Lcfling/nbio/logging"
+	"github.com/Lcfling/nbio/mempool"
+	"github.com/Lcfling/nbio/taskpool"
 )
 
 var (

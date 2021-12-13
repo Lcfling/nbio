@@ -11,10 +11,10 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/lesismal/llib/std/crypto/tls"
-	"github.com/lesismal/nbio"
-	"github.com/lesismal/nbio/logging"
-	"github.com/lesismal/nbio/mempool"
+	"github.com/Lcfling/cryptogm/tls"
+	"github.com/Lcfling/nbio"
+	"github.com/Lcfling/nbio/logging"
+	"github.com/Lcfling/nbio/mempool"
 )
 
 type resHandler struct {

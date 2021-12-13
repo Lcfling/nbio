@@ -1,5 +1,5 @@
-module github.com/lesismal/nbio
+module github.com/Lcfling/nbio
 
 go 1.16
 
-require github.com/lesismal/llib v1.1.4
+require github.com/Lcfling/cryptogm v1.0.2

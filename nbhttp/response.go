@@ -15,8 +15,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/lesismal/nbio/logging"
-	"github.com/lesismal/nbio/mempool"
+	"github.com/Lcfling/nbio/logging"
+	"github.com/Lcfling/nbio/mempool"
 )
 
 // Response represents the server side of an HTTP response.

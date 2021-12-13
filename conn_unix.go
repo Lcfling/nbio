@@ -14,7 +14,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/lesismal/nbio/mempool"
+	"github.com/Lcfling/nbio/mempool"
 )
 
 // Conn implements net.Conn.

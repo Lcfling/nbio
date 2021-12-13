@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/lesismal/llib/std/crypto/tls"
+	"github.com/Lcfling/cryptogm/tls"
 )
 
 func newHostConns(cli *Client) *hostConns {

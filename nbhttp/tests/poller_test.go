@@ -15,9 +15,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lesismal/llib/std/crypto/tls"
-	"github.com/lesismal/nbio/nbhttp"
-	"github.com/lesismal/nbio/nbhttp/websocket"
+	"github.com/Lcfling/cryptogm/tls"
+	"github.com/Lcfling/nbio/nbhttp"
+	"github.com/Lcfling/nbio/nbhttp/websocket"
 )
 
 var (

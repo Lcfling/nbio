@@ -7,7 +7,7 @@ package nbhttp
 import (
 	"net/http"
 
-	"github.com/lesismal/llib/std/crypto/tls"
+	"github.com/Lcfling/cryptogm/tls"
 )
 
 // Server .

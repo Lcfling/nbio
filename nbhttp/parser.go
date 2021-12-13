@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/lesismal/nbio/mempool"
+	"github.com/Lcfling/nbio/mempool"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/lesismal/nbio/logging"
+	"github.com/Lcfling/nbio/logging"
 )
 
 func call(f func()) {
